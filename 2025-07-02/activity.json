@@ -2,9 +2,9 @@
   "date": "2025-07-02",
   "projects": {
     "Cursor": {
-      "totalLinesAdded": 1453,
+      "totalLinesAdded": 2306,
       "totalLinesRemoved": 615,
-      "totalActiveTime": 41,
+      "totalActiveTime": 60,
       "files": {
         "c:\\Cursor\\Alpha\\login_animado_gradiente.py": [
           {
@@ -648,6 +648,296 @@
             "fileName": "c:\\Cursor\\Alpha\\login_test.py",
             "fileType": ".py",
             "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\config\\settings.py": [
+          {
+            "timestamp": "2025-07-02T15:32:08.034Z",
+            "fileName": "c:\\Cursor\\Alpha\\config\\settings.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T15:32:08.879Z",
+            "fileName": "c:\\Cursor\\Alpha\\config\\settings.py",
+            "fileType": ".py",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\src\\utils\\font_manager.py": [
+          {
+            "timestamp": "2025-07-02T15:32:25.251Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\utils\\font_manager.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T15:32:26.096Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\utils\\font_manager.py",
+            "fileType": ".py",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\src\\ui\\components\\particles.py": [
+          {
+            "timestamp": "2025-07-02T15:32:43.554Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\components\\particles.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T15:32:44.405Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\components\\particles.py",
+            "fileType": ".py",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\src\\ui\\login\\left_panel.py": [
+          {
+            "timestamp": "2025-07-02T15:33:32.865Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\login\\left_panel.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T15:33:33.722Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\login\\left_panel.py",
+            "fileType": ".py",
+            "linesAdded": 227,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\src\\ui\\login\\right_panel.py": [
+          {
+            "timestamp": "2025-07-02T15:34:49.736Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\login\\right_panel.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T15:34:50.584Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\login\\right_panel.py",
+            "fileType": ".py",
+            "linesAdded": 231,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\src\\ui\\login\\login_window.py": [
+          {
+            "timestamp": "2025-07-02T15:35:12.002Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\login\\login_window.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T15:35:12.838Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\login\\login_window.py",
+            "fileType": ".py",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\src\\main.py": [
+          {
+            "timestamp": "2025-07-02T15:35:30.942Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\main.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T15:35:31.786Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\main.py",
+            "fileType": ".py",
+            "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\src\\__init__.py": [
+          {
+            "timestamp": "2025-07-02T15:35:38.853Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\src\\ui\\__init__.py": [
+          {
+            "timestamp": "2025-07-02T15:35:47.551Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\src\\ui\\login\\__init__.py": [
+          {
+            "timestamp": "2025-07-02T15:35:55.172Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\login\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\src\\ui\\components\\__init__.py": [
+          {
+            "timestamp": "2025-07-02T15:36:03.346Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\components\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\src\\utils\\__init__.py": [
+          {
+            "timestamp": "2025-07-02T15:36:11.268Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\utils\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "Cursor",
             "content": {

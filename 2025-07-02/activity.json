@@ -1,0 +1,89 @@
+{
+  "date": "2025-07-02",
+  "projects": {
+    "Cursor": {
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Cursor\\Alpha\\login_animado_gradiente.py": [
+          {
+            "timestamp": "2025-07-02T06:38:03.675Z",
+            "fileName": "c:\\Cursor\\Alpha\\login_animado_gradiente.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T06:38:04.753Z",
+            "fileName": "c:\\Cursor\\Alpha\\login_animado_gradiente.py",
+            "fileType": ".py",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T06:38:29.496Z",
+            "fileName": "c:\\Cursor\\Alpha\\login_animado_gradiente.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T06:38:50.779Z",
+            "fileName": "c:\\Cursor\\Alpha\\login_animado_gradiente.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 3
+      },
+      "changeFrequency": {
+        "3": 3
+      },
+      "topFiles": [
+        "c:\\Cursor\\Alpha\\login_animado_gradiente.py"
+      ],
+      "averageChangeSize": 16.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    3
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}

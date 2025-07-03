@@ -1,0 +1,75 @@
+{
+  "date": "2025-07-03",
+  "projects": {
+    "Cursor": {
+      "totalLinesAdded": 4,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Cursor\\Alpha\\src\\__init__.py": [
+          {
+            "timestamp": "2025-07-03T05:47:55.916Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-03T05:48:07.485Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-03T05:48:11.664Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "2": 2
+      },
+      "topFiles": [
+        "c:\\Cursor\\Alpha\\src\\__init__.py"
+      ],
+      "averageChangeSize": 1.3333333333333333
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    2
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}

@@ -2,7 +2,7 @@
   "date": "2025-07-03",
   "projects": {
     "Cursor": {
-      "totalLinesAdded": 2494,
+      "totalLinesAdded": 2496,
       "totalLinesRemoved": 3,
       "totalActiveTime": 58,
       "files": {
@@ -847,6 +847,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-07-03T22:53:02.140Z",
+            "fileName": "c:\\Cursor\\Alpha\\run_alpha_erp.bat",
+            "fileType": ".bat",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "bat"
           }
         ]

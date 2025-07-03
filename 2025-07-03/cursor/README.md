@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1807                                          |
+| **Lines Added** (➕)   | 1859                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 1804                |
-| **Active Time** (⌚)   | 48 minutes |
+| **Net Change** (↕)    | 1856                |
+| **Active Time** (⌚)   | 50 minutes |
 
 
 ## Modified Files
@@ -19,8 +19,9 @@
 - **main_backoffice_window.py** (+1332, -0)
 - **test_backoffice_window.py** (+20, -0)
 - **main.py** (+285, -0)
-- **add_python_to_path.bat** (+26, -0)
+- **add_python_to_path.bat** (+52, -0)
 - **settings.py** (+57, -0)
+- **add_python_to_path.bat** (+26, -0)
 
 ## Visualizations
 
@@ -30,7 +31,7 @@
 pie showData
 title Lines changed by file type
 ".py" : 1784
-".bat" : 26
+".bat" : 78
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -51,7 +52,8 @@ title Coding activity by hour (count of changes)
 "16h" : 3
 "17h" : 1
 "18h" : 6
+"19h" : 3
 ```
 
 
-> **Last Updated:** 7/3/2025, 6:50:22 PM
+> **Last Updated:** 7/3/2025, 7:15:22 PM

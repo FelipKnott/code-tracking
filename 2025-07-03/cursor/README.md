@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 974                                          |
+| **Lines Added** (➕)   | 1204                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 971                |
-| **Active Time** (⌚)   | 27 minutes |
+| **Net Change** (↕)    | 1201                |
+| **Active Time** (⌚)   | 28 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **produto_service.py** (+16, -0)
 - **cliente.py** (+13, -0)
 - **cliente_service.py** (+16, -0)
-- **main_backoffice_window.py** (+582, -0)
+- **main_backoffice_window.py** (+812, -0)
 - **test_backoffice_window.py** (+20, -0)
 - **main.py** (+285, -0)
 
@@ -27,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 977
+".py" : 1207
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,7 +43,8 @@ title Coding activity by hour (count of changes)
 "08h" : 1
 "09h" : 4
 "11h" : 1
+"14h" : 2
 ```
 
 
-> **Last Updated:** 7/3/2025, 11:05:18 AM
+> **Last Updated:** 7/3/2025, 2:19:36 PM

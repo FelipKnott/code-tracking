@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1859                                          |
+| **Lines Added** (➕)   | 2479                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 1856                |
-| **Active Time** (⌚)   | 50 minutes |
+| **Net Change** (↕)    | 2476                |
+| **Active Time** (⌚)   | 57 minutes |
 
 
 ## Modified Files
@@ -22,6 +22,10 @@
 - **add_python_to_path.bat** (+52, -0)
 - **settings.py** (+57, -0)
 - **add_python_to_path.bat** (+26, -0)
+- **font_manager.py** (+49, -0)
+- **left_panel.py** (+228, -0)
+- **right_panel.py** (+232, -0)
+- **login_window.py** (+111, -0)
 
 ## Visualizations
 
@@ -30,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 1784
+".py" : 2404
 ".bat" : 78
 ```
 
@@ -52,8 +56,8 @@ title Coding activity by hour (count of changes)
 "16h" : 3
 "17h" : 1
 "18h" : 6
-"19h" : 3
+"19h" : 7
 ```
 
 
-> **Last Updated:** 7/3/2025, 7:15:22 PM
+> **Last Updated:** 7/3/2025, 7:20:22 PM

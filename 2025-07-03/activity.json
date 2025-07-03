@@ -2,9 +2,9 @@
   "date": "2025-07-03",
   "projects": {
     "Cursor": {
-      "totalLinesAdded": 1483,
+      "totalLinesAdded": 1807,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 43,
+      "totalActiveTime": 48,
       "files": {
         "c:\\Cursor\\Alpha\\src\\__init__.py": [
           {
@@ -520,6 +520,62 @@
             },
             "duration": 0,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-07-03T21:50:04.944Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\main_backoffice_window.py",
+            "fileType": ".py",
+            "linesAdded": 253,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-03T21:50:05.213Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\main_backoffice_window.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-03T21:50:10.851Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\main_backoffice_window.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-03T21:50:15.131Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\main_backoffice_window.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "c:\\Cursor\\Alpha\\src\\ui\\test_backoffice_window.py": [
@@ -624,6 +680,36 @@
             },
             "duration": 0,
             "language": "bat"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\config\\settings.py": [
+          {
+            "timestamp": "2025-07-03T21:49:57.958Z",
+            "fileName": "c:\\Cursor\\Alpha\\config\\settings.py",
+            "fileType": ".py",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-03T21:49:58.288Z",
+            "fileName": "c:\\Cursor\\Alpha\\config\\settings.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },

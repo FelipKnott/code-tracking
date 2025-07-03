@@ -2,7 +2,7 @@
   "date": "2025-07-03",
   "projects": {
     "Cursor": {
-      "totalLinesAdded": 1479,
+      "totalLinesAdded": 1482,
       "totalLinesRemoved": 3,
       "totalActiveTime": 43,
       "files": {
@@ -595,6 +595,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-07-03T19:56:08.285Z",
+            "fileName": "c:\\Cursor\\add_python_to_path.bat",
+            "fileType": ".bat",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "bat"
           }
         ]

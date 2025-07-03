@@ -2,7 +2,7 @@
   "date": "2025-07-03",
   "projects": {
     "Cursor": {
-      "totalLinesAdded": 210,
+      "totalLinesAdded": 239,
       "totalLinesRemoved": 3,
       "totalActiveTime": 18,
       "files": {
@@ -239,6 +239,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-03T08:28:12.018Z",
+            "fileName": "c:\\Cursor\\Alpha\\src\\ui\\main_backoffice_window.py",
+            "fileType": ".py",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],

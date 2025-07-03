@@ -2,9 +2,9 @@
   "date": "2025-07-03",
   "projects": {
     "Cursor": {
-      "totalLinesAdded": 2479,
+      "totalLinesAdded": 2494,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 57,
+      "totalActiveTime": 58,
       "files": {
         "c:\\Cursor\\Alpha\\src\\__init__.py": [
           {
@@ -818,6 +818,36 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Alpha\\run_alpha_erp.bat": [
+          {
+            "timestamp": "2025-07-03T22:29:54.994Z",
+            "fileName": "c:\\Cursor\\Alpha\\run_alpha_erp.bat",
+            "fileType": ".bat",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-07-03T22:29:55.866Z",
+            "fileName": "c:\\Cursor\\Alpha\\run_alpha_erp.bat",
+            "fileType": ".bat",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
           }
         ]
       },

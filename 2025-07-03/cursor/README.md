@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2479                                          |
+| **Lines Added** (➕)   | 2494                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 2476                |
-| **Active Time** (⌚)   | 57 minutes |
+| **Net Change** (↕)    | 2491                |
+| **Active Time** (⌚)   | 58 minutes |
 
 
 ## Modified Files
@@ -26,6 +26,7 @@
 - **left_panel.py** (+228, -0)
 - **right_panel.py** (+232, -0)
 - **login_window.py** (+111, -0)
+- **run_alpha_erp.bat** (+15, -0)
 
 ## Visualizations
 
@@ -35,7 +36,7 @@
 pie showData
 title Lines changed by file type
 ".py" : 2404
-".bat" : 78
+".bat" : 93
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -56,8 +57,8 @@ title Coding activity by hour (count of changes)
 "16h" : 3
 "17h" : 1
 "18h" : 6
-"19h" : 7
+"19h" : 9
 ```
 
 
-> **Last Updated:** 7/3/2025, 7:20:22 PM
+> **Last Updated:** 7/3/2025, 7:30:22 PM

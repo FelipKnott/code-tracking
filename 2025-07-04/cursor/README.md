@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 855                                          |
+| **Lines Added** (➕)   | 914                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 855                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Net Change** (↕)    | 914                |
+| **Active Time** (⌚)   | 45 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **fechar_programas_alpha_forcado.bat** (+26, -0)
 - **login_window.py** (+131, -0)
 - **left_panel.py** (+244, -0)
-- **font_manager.py** (+59, -0)
+- **font_manager.py** (+61, -0)
 - **right_panel.py** (+239, -0)
 - **run_login.py** (+28, -0)
 - **test_pyqt.py** (+6, -0)
@@ -26,6 +26,7 @@
 - **requirements.txt** (+1, -0)
 - **requirements.txt** (+1, -0)
 - **run_login.py** (+18, -0)
+- **settings.py** (+57, -0)
 
 ## Visualizations
 
@@ -35,7 +36,7 @@
 pie showData
 title Lines changed by file type
 ".bat" : 37
-".py" : 816
+".py" : 875
 ".txt" : 2
 ```
 
@@ -47,8 +48,8 @@ title Coding activity by hour (count of changes)
 "03h" : 2
 "04h" : 2
 "11h" : 6
-"12h" : 26
+"12h" : 28
 ```
 
 
-> **Last Updated:** 7/4/2025, 12:28:11 PM
+> **Last Updated:** 7/4/2025, 12:33:11 PM

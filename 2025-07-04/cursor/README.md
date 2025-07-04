@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 914                                          |
+| **Lines Added** (➕)   | 956                                          |
 | **Lines Removed** (➖) | 7                                        |
-| **Net Change** (↕)    | 907                |
+| **Net Change** (↕)    | 949                |
 | **Active Time** (⌚)   | 58 minutes |
 
 
@@ -16,7 +16,7 @@
 - **login_window.py** (+131, -1)
 - **left_panel.py** (+244, -0)
 - **font_manager.py** (+61, -0)
-- **right_panel.py** (+239, -0)
+- **right_panel.py** (+281, -0)
 - **run_login.py** (+28, -0)
 - **test_pyqt.py** (+6, -0)
 - **left_panel.py** (+32, -0)
@@ -36,7 +36,7 @@
 pie showData
 title Lines changed by file type
 ".bat" : 37
-".py" : 882
+".py" : 924
 ".txt" : 2
 ```
 
@@ -49,7 +49,8 @@ title Coding activity by hour (count of changes)
 "04h" : 2
 "11h" : 6
 "12h" : 31
+"13h" : 1
 ```
 
 
-> **Last Updated:** 7/4/2025, 12:48:11 PM
+> **Last Updated:** 7/4/2025, 1:23:11 PM

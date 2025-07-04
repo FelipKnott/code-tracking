@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 794                                          |
+| **Lines Added** (➕)   | 804                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 794                |
-| **Active Time** (⌚)   | 30 minutes |
+| **Net Change** (↕)    | 804                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
@@ -24,6 +24,8 @@
 - **login_window.py** (+16, -0)
 - **run_login.py** (+9, -0)
 - **requirements.txt** (+1, -0)
+- **requirements.txt** (+1, -0)
+- **run_login.py** (+9, -0)
 
 ## Visualizations
 
@@ -33,8 +35,8 @@
 pie showData
 title Lines changed by file type
 ".bat" : 37
-".py" : 756
-".txt" : 1
+".py" : 765
+".txt" : 2
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,8 +47,8 @@ title Coding activity by hour (count of changes)
 "03h" : 2
 "04h" : 2
 "11h" : 6
-"12h" : 15
+"12h" : 18
 ```
 
 
-> **Last Updated:** 7/4/2025, 12:13:11 PM
+> **Last Updated:** 7/4/2025, 12:18:11 PM

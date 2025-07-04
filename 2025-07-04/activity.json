@@ -3,8 +3,8 @@
   "projects": {
     "Cursor": {
       "totalLinesAdded": 914,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 48,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 53,
       "files": {
         "c:\\Cursor\\fechar_programas_alpha.bat": [
           {
@@ -581,6 +581,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-04T15:39:22.253Z",
+            "fileName": "c:\\Cursor\\Alpha\\config\\settings.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "py"
           }
         ]

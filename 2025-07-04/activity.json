@@ -2,9 +2,9 @@
   "date": "2025-07-04",
   "projects": {
     "Cursor": {
-      "totalLinesAdded": 1036,
+      "totalLinesAdded": 1044,
       "totalLinesRemoved": 111,
-      "totalActiveTime": 88,
+      "totalActiveTime": 93,
       "files": {
         "c:\\Cursor\\fechar_programas_alpha.bat": [
           {
@@ -149,6 +149,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-04T18:35:54.023Z",
+            "fileName": "c:\\Cursor\\Alpha\\login_app\\ui_login\\login_window.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-04T18:37:56.123Z",
+            "fileName": "c:\\Cursor\\Alpha\\login_app\\ui_login\\login_window.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ],
@@ -305,6 +333,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-04T18:34:24.800Z",
+            "fileName": "c:\\Cursor\\Alpha\\login_app\\ui_login\\left_panel.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
@@ -527,6 +569,20 @@
             "fileType": ".py",
             "linesAdded": 0,
             "linesRemoved": 41,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-04T18:36:53.328Z",
+            "fileName": "c:\\Cursor\\Alpha\\login_app\\ui_login\\right_panel.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "Cursor",
             "content": {
               "added": [],

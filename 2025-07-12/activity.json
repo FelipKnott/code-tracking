@@ -49,9 +49,9 @@
       "averageChangeSize": 11
     },
     "Cursor": {
-      "totalLinesAdded": 308,
+      "totalLinesAdded": 404,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalActiveTime": 12,
       "files": {
         "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\api\\routes.py": [
           {
@@ -123,6 +123,20 @@
             },
             "duration": 1,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-07-12T10:35:04.328Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\api\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
           }
         ],
         "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\frontend\\index.html": [
@@ -159,6 +173,20 @@
             "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\frontend\\index.html",
             "fileType": ".html",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-12T10:35:18.498Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\frontend\\index.html",
+            "fileType": ".html",
+            "linesAdded": 57,
             "linesRemoved": 0,
             "projectName": "Cursor",
             "content": {

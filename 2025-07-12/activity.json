@@ -49,7 +49,7 @@
       "averageChangeSize": 11
     },
     "Cursor": {
-      "totalLinesAdded": 431,
+      "totalLinesAdded": 434,
       "totalLinesRemoved": 0,
       "totalActiveTime": 13,
       "files": {
@@ -224,6 +224,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-12T14:09:48.722Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 547                                          |
+| **Lines Added** (➕)   | 570                                          |
 | **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 545                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Net Change** (↕)    | 568                |
+| **Active Time** (⌚)   | 35 minutes |
 
 
 ## Modified Files
@@ -15,8 +15,9 @@
 - **index.html** (+211, -0)
 - **package.json** (+40, -0)
 - **launcher.py** (+12, -0)
-- **erp_backend.spec** (+73, -2)
+- **erp_backend.spec** (+79, -2)
 - **start.cmd** (+18, -0)
+- **post_build_cleanup.py** (+17, -0)
 
 ## Visualizations
 
@@ -25,10 +26,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 205
+".py" : 222
 ".html" : 211
 ".json" : 40
-".spec" : 75
+".spec" : 81
 ".cmd" : 18
 ```
 
@@ -41,8 +42,8 @@ title Coding activity by hour (count of changes)
 "11h" : 3
 "18h" : 10
 "21h" : 5
-"22h" : 1
+"22h" : 4
 ```
 
 
-> **Last Updated:** 7/12/2025, 10:06:34 PM
+> **Last Updated:** 7/12/2025, 10:11:34 PM

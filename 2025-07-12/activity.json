@@ -50,8 +50,8 @@
     },
     "Cursor": {
       "totalLinesAdded": 547,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 29,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 32,
       "files": {
         "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\api\\routes.py": [
           {
@@ -424,6 +424,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "spec"
+          },
+          {
+            "timestamp": "2025-07-13T01:02:17.615Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\erp_backend.spec",
+            "fileType": ".spec",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "spec"
           }
         ],

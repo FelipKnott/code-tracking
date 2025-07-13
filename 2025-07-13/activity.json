@@ -2,9 +2,9 @@
   "date": "2025-07-13",
   "projects": {
     "Cursor": {
-      "totalLinesAdded": 277,
+      "totalLinesAdded": 353,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\launcher.py": [
           {
@@ -35,6 +35,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T14:23:59.739Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\api\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ],
@@ -116,6 +130,36 @@
             "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\models\\product.py",
             "fileType": ".py",
             "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\schemas.py": [
+          {
+            "timestamp": "2025-07-13T14:21:40.263Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T14:21:41.123Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 30,
             "linesRemoved": 0,
             "projectName": "Cursor",
             "content": {

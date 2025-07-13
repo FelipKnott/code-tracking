@@ -49,7 +49,7 @@
       "averageChangeSize": 11
     },
     "Cursor": {
-      "totalLinesAdded": 573,
+      "totalLinesAdded": 618,
       "totalLinesRemoved": 2,
       "totalActiveTime": 40,
       "files": {
@@ -527,6 +527,22 @@
             },
             "duration": 5,
             "language": "py"
+          }
+        ],
+        "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\launcher.spec": [
+          {
+            "timestamp": "2025-07-13T01:50:53.206Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\launcher.spec",
+            "fileType": ".spec",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "Cursor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "spec"
           }
         ]
       },

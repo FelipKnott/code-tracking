@@ -1,0 +1,75 @@
+{
+  "date": "2025-07-14",
+  "projects": {
+    "Habilita": {
+      "totalLinesAdded": 33,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Cursor\\Habilita\\gerar_ini.py": [
+          {
+            "timestamp": "2025-07-14T21:33:17.040Z",
+            "fileName": "c:\\Cursor\\Habilita\\gerar_ini.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Habilita",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-14T21:33:18.167Z",
+            "fileName": "c:\\Cursor\\Habilita\\gerar_ini.py",
+            "fileType": ".py",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "Habilita",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-14T21:33:23.312Z",
+            "fileName": "c:\\Cursor\\Habilita\\gerar_ini.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Habilita",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "18": 2
+      },
+      "topFiles": [
+        "c:\\Cursor\\Habilita\\gerar_ini.py"
+      ],
+      "averageChangeSize": 11
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}

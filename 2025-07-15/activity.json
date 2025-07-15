@@ -61,6 +61,67 @@
         "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\models\\venda.py"
       ],
       "averageChangeSize": 13
+    },
+    "backend": {
+      "totalLinesAdded": 101,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\schemas.py": [
+          {
+            "timestamp": "2025-07-15T21:25:08.988Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-15T21:25:09.829Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-15T21:25:21.370Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\schemas.py",
+            "fileType": ".py",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 7
+      },
+      "changeFrequency": {
+        "18": 7
+      },
+      "topFiles": [
+        "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\schemas.py"
+      ],
+      "averageChangeSize": 33.666666666666664
     }
   },
   "totalActiveTime": 2,

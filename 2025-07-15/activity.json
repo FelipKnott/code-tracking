@@ -122,6 +122,53 @@
         "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\schemas.py"
       ],
       "averageChangeSize": 33.666666666666664
+    },
+    "api": {
+      "totalLinesAdded": 403,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\api\\routes.py": [
+          {
+            "timestamp": "2025-07-15T21:37:36.840Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\api\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 271,
+            "linesRemoved": 0,
+            "projectName": "api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-15T21:37:37.690Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\api\\routes.py",
+            "fileType": ".py",
+            "linesAdded": 132,
+            "linesRemoved": 0,
+            "projectName": "api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "18": 1
+      },
+      "topFiles": [
+        "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\api\\routes.py"
+      ],
+      "averageChangeSize": 201.5
     }
   },
   "totalActiveTime": 2,

@@ -1,0 +1,75 @@
+{
+  "date": "2025-07-15",
+  "projects": {
+    "models": {
+      "totalLinesAdded": 39,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\models\\venda.py": [
+          {
+            "timestamp": "2025-07-15T21:20:40.690Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\models\\venda.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "models",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-15T21:20:41.533Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\models\\venda.py",
+            "fileType": ".py",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "models",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-15T21:20:51.415Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\models\\venda.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "models",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "18": 2
+      },
+      "topFiles": [
+        "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\backend\\models\\venda.py"
+      ],
+      "averageChangeSize": 13
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}

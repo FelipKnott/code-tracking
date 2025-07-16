@@ -244,6 +244,53 @@
         "c:\\Cursor\\Projeto Sistema\\erp_hibrido_completo\\frontend\\index.html"
       ],
       "averageChangeSize": 95
+    },
+    "felip": {
+      "totalLinesAdded": 12,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\felip\\reset_admin_password.py": [
+          {
+            "timestamp": "2025-07-16T02:26:52.945Z",
+            "fileName": "c:\\Users\\felip\\reset_admin_password.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "felip",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-16T02:26:53.800Z",
+            "fileName": "c:\\Users\\felip\\reset_admin_password.py",
+            "fileType": ".py",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "felip",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "23": 1
+      },
+      "topFiles": [
+        "c:\\Users\\felip\\reset_admin_password.py"
+      ],
+      "averageChangeSize": 6
     }
   },
   "totalActiveTime": 2,

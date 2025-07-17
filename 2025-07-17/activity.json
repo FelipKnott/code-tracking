@@ -1,0 +1,75 @@
+{
+  "date": "2025-07-17",
+  "projects": {
+    "Projeto Sistema": {
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Cursor\\erp_alpha\\backend\\api\\admin_routes.py": [
+          {
+            "timestamp": "2025-07-17T09:36:05.484Z",
+            "fileName": "c:\\Cursor\\erp_alpha\\backend\\api\\admin_routes.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projeto Sistema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-17T09:36:06.576Z",
+            "fileName": "c:\\Cursor\\erp_alpha\\backend\\api\\admin_routes.py",
+            "fileType": ".py",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "Projeto Sistema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-17T09:36:17.307Z",
+            "fileName": "c:\\Cursor\\erp_alpha\\backend\\api\\admin_routes.py",
+            "fileType": ".py",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "Projeto Sistema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "6": 2
+      },
+      "topFiles": [
+        "c:\\Cursor\\erp_alpha\\backend\\api\\admin_routes.py"
+      ],
+      "averageChangeSize": 22
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    6
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}

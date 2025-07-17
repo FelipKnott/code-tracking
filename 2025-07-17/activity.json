@@ -2,7 +2,7 @@
   "date": "2025-07-17",
   "projects": {
     "Projeto Sistema": {
-      "totalLinesAdded": 257,
+      "totalLinesAdded": 260,
       "totalLinesRemoved": 2,
       "totalActiveTime": 13,
       "files": {
@@ -255,6 +255,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-17T10:46:30.327Z",
+            "fileName": "c:\\Cursor\\Projeto Sistema\\main.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Projeto Sistema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]

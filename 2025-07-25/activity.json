@@ -1,0 +1,47 @@
+{
+  "date": "2025-07-25",
+  "projects": {
+    "api": {
+      "totalLinesAdded": 123,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Cursor\\erp_alpha\\backend\\api\\admin_routes.py": [
+          {
+            "timestamp": "2025-07-25T17:50:20.132Z",
+            "fileName": "c:\\Cursor\\erp_alpha\\backend\\api\\admin_routes.py",
+            "fileType": ".py",
+            "linesAdded": 123,
+            "linesRemoved": 0,
+            "projectName": "api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "c:\\Cursor\\erp_alpha\\backend\\api\\admin_routes.py"
+      ],
+      "averageChangeSize": 123
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}

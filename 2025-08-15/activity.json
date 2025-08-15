@@ -2,7 +2,7 @@
   "date": "2025-08-15",
   "projects": {
     "Alpha": {
-      "totalLinesAdded": 36,
+      "totalLinesAdded": 54,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -34,6 +34,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Alpha\\.trunk\\trunk.yaml": [
+          {
+            "timestamp": "2025-08-15T22:02:28.423Z",
+            "fileName": "c:\\Alpha\\.trunk\\trunk.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "Alpha",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
           }
         ]
       },

@@ -1,0 +1,61 @@
+{
+  "date": "2025-08-15",
+  "projects": {
+    "Alpha": {
+      "totalLinesAdded": 36,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\felip\\AppData\\Roaming\\Cursor\\User\\settings.json": [
+          {
+            "timestamp": "2025-08-15T20:18:25.626Z",
+            "fileName": "c:\\Users\\felip\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "Alpha",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-15T20:18:25.800Z",
+            "fileName": "c:\\Users\\felip\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "Alpha",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "17": 1
+      },
+      "topFiles": [
+        "c:\\Users\\felip\\AppData\\Roaming\\Cursor\\User\\settings.json"
+      ],
+      "averageChangeSize": 18
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}

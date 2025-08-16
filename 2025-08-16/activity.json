@@ -1,0 +1,47 @@
+{
+  "date": "2025-08-16",
+  "projects": {
+    "Alpha": {
+      "totalLinesAdded": 11,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\felip\\AppData\\Roaming\\Cursor\\User\\keybindings.json": [
+          {
+            "timestamp": "2025-08-16T07:34:17.514Z",
+            "fileName": "c:\\Users\\felip\\AppData\\Roaming\\Cursor\\User\\keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Alpha",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "4": 0
+      },
+      "topFiles": [
+        "c:\\Users\\felip\\AppData\\Roaming\\Cursor\\User\\keybindings.json"
+      ],
+      "averageChangeSize": 11
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    4
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}

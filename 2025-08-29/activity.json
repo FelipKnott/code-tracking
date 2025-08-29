@@ -2,9 +2,9 @@
   "date": "2025-08-29",
   "projects": {
     "Alpha": {
-      "totalLinesAdded": 5,
+      "totalLinesAdded": 44,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 6,
       "files": {
         "c:\\Alpha\\.vscode\\settings.json": [
           {
@@ -33,6 +33,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\felip\\AppData\\Roaming\\Cursor\\User\\settings.json": [
+          {
+            "timestamp": "2025-08-29T03:16:01.580Z",
+            "fileName": "c:\\Users\\felip\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "Alpha",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "json"
           }
         ]

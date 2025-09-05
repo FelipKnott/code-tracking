@@ -2,9 +2,9 @@
   "date": "2025-09-05",
   "projects": {
     "erp-alpha": {
-      "totalLinesAdded": 62,
+      "totalLinesAdded": 874,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "c:\\erp-alpha\\.trunk\\trunk.yaml": [
           {
@@ -34,6 +34,38 @@
             },
             "duration": 0,
             "language": "yaml"
+          }
+        ],
+        "c:\\erp-alpha\\alpha-erp\\alpha-erp-system\\app\\Http\\Controllers\\Settings\\License.php": [
+          {
+            "timestamp": "2025-09-05T23:57:28.078Z",
+            "fileName": "c:\\erp-alpha\\alpha-erp\\alpha-erp-system\\app\\Http\\Controllers\\Settings\\License.php",
+            "fileType": ".php",
+            "linesAdded": 446,
+            "linesRemoved": 0,
+            "projectName": "erp-alpha",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\erp-alpha\\alpha-erp\\alpha-erp-system\\resources\\views\\settings\\license\\index.blade.php": [
+          {
+            "timestamp": "2025-09-05T23:58:19.210Z",
+            "fileName": "c:\\erp-alpha\\alpha-erp\\alpha-erp-system\\resources\\views\\settings\\license\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 366,
+            "linesRemoved": 0,
+            "projectName": "erp-alpha",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ]
       },

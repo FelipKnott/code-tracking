@@ -1,0 +1,47 @@
+{
+  "date": "2025-09-05",
+  "projects": {
+    "erp-alpha": {
+      "totalLinesAdded": 31,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\erp-alpha\\.trunk\\trunk.yaml": [
+          {
+            "timestamp": "2025-09-05T05:01:42.235Z",
+            "fileName": "c:\\erp-alpha\\.trunk\\trunk.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "erp-alpha",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          }
+        ]
+      },
+      "languageStats": {
+        "yaml": 0
+      },
+      "changeFrequency": {
+        "2": 0
+      },
+      "topFiles": [
+        "c:\\erp-alpha\\.trunk\\trunk.yaml"
+      ],
+      "averageChangeSize": 31
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    2
+  ],
+  "mostUsedLanguages": [
+    "yaml"
+  ]
+}

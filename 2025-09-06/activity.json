@@ -1,0 +1,47 @@
+{
+  "date": "2025-09-06",
+  "projects": {
+    "erp-alpha": {
+      "totalLinesAdded": 96,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\erp-alpha\\alpha-erp\\alpha-erp-system\\test-license-panel.php": [
+          {
+            "timestamp": "2025-09-06T06:38:25.288Z",
+            "fileName": "c:\\erp-alpha\\alpha-erp\\alpha-erp-system\\test-license-panel.php",
+            "fileType": ".php",
+            "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "erp-alpha",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "3": 0
+      },
+      "topFiles": [
+        "c:\\erp-alpha\\alpha-erp\\alpha-erp-system\\test-license-panel.php"
+      ],
+      "averageChangeSize": 96
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    3
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
